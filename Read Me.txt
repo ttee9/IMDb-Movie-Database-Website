@@ -1,0 +1,7 @@
+Demo video demonstrates the following. 
+
+1) Display posters in a neat grid
+2) Show random posters
+3) Link to movie websites when possible (otherwise towards a general website like Google.com)
+4) Overall page design
+

@@ -1,0 +1,21 @@
+.postercontainer {
+
+  display: flex;
+  flex-flow: row wrap;
+  margin: 0px;
+  width: 100%;
+  outline: 0px;
+
+}
+
+
+.red {
+
+  display: flex;
+  flex-direction: column;
+  font-family: verdana;
+  background: orangered;
+  font-size: 20px;
+  width : 300px;
+
+}
